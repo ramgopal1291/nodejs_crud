@@ -6,7 +6,7 @@ NPM command to install all following modules
 npm i --s express@4.16.4 mongoose@5.4.0 express-handlebars@3.0.0 body-parser@1.18.3
 
 ..or create a new repository on the command line
-echo "# project" >> README.md
+echo "# nodejs_crud" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
