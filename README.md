@@ -10,9 +10,9 @@ echo "# nodejs_crud" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin https://github.com/ramgopal1291/project.git
+git remote add origin https://github.com/ramgopal1291/nodejs_crud.git
 git push -u origin master
 
 …or push an existing repository from the command line
-git remote add origin https://github.com/ramgopal1291/project.git
+git remote add origin https://github.com/ramgopal1291/nodejs_crud.git
 git push -u origin master
